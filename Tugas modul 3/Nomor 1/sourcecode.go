@@ -4,7 +4,6 @@ import (
 	"fmt"
 )
 
-// Fungsi untuk menghitung faktorial
 func factorial(n int) int {
 	if n == 0 {
 		return 1
