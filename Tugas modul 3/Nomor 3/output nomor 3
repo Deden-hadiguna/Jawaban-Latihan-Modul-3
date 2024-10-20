@@ -1,0 +1,26 @@
+Masukkan koordinat pusat dan radius lingkaran 1 (cx1 cy1 r1):
+1 1 5 8 8 4 2 2
+Masukkan koordinat pusat dan radius lingkaran 2 (cx2 cy2 r2):
+Masukkan koordinat titik sembarang (x y):
+Titik di dalam lingkaran 1
+
+
+Masukkan koordinat pusat dan radius lingkaran 1 (cx1 cy1 r1):
+1 2 3 4 5 6 7 8
+Masukkan koordinat pusat dan radius lingkaran 2 (cx2 cy2 r2):
+Masukkan koordinat titik sembarang (x y):
+Titik di dalam lingkaran 2
+
+
+Masukkan koordinat pusat dan radius lingkaran 1 (cx1 cy1 r1):
+5 10 15 -15 4 20 0 0
+Masukkan koordinat pusat dan radius lingkaran 2 (cx2 cy2 r2):
+Masukkan koordinat titik sembarang (x y):
+Titik di dalam lingkaran 1 dan 2
+
+
+Masukkan koordinat pusat dan radius lingkaran 1 (cx1 cy1 r1):
+1 1 5 8 8 4 15 20
+Masukkan koordinat pusat dan radius lingkaran 2 (cx2 cy2 r2):
+Masukkan koordinat titik sembarang (x y):
+Titik di luar lingkaran 1 dan 2
