@@ -1,0 +1,6 @@
+Masukkan empat bilangan bulat (a, b, c, d):
+5 10 3 10
+Permutasi dari 5 terhadap 3: 60
+Kombinasi dari 5 terhadap 3: 10
+Permutasi dari 10 terhadap 10: 3628800
+Kombinasi dari 10 terhadap 10: 1
